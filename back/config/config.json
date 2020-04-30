@@ -1,0 +1,8 @@
+{
+    "database": "mydb",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false,
+    "username": "postgres"
+  }
+
